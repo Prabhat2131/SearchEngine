@@ -1,8 +1,8 @@
 # SearchEngine
 ## Goal
-Made a Search engine where we can search our queries.
+## Made a Search engine where we can search our queries using Java JDBC and Servlets.
 
-## Using Java swing and java awt , css and dbms.
+
   ##  Developed a search engine application using Java, Servlets, and JDBC to perform keyword-based searches on a database of web pages
   ##  Implemented ranking algorithm to display search results based on the relevance of the keywords in page titles and text
   ##  Designed a user-friendly front-end interface using JSP and HTML to display search results to users.}
